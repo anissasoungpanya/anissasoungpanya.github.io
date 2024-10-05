@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    color: #333;
+    text-align: center
+}
+
+.navbar {
+    color:darkmagenta;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+h1 {
+    font-family: sans-serif;
+    color:hotpink;
+    text-align: center
+}
