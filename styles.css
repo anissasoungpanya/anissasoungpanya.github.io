@@ -4,9 +4,15 @@ body {
     text-align: center
 }
 
+title {
+    font-family: sans-serif;
+    color: hotpink;
+    text-align: center
+}
+
 .navbar {
     color:darkmagenta;
-    text-align: center;
+    text-align: left;
     padding: 10px 20px;
 }
 
